@@ -9,6 +9,6 @@
   <li>https://www.analyticsvidhya.com/blog/2019/02/flair-nlp-library-python/ 
   <li>https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_1_BASICS.md 
   <li>https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_2_TAGGING.md 
-  <li>https://github.com/flairNLP/flair <\li>
+  <li>https://github.com/flairNLP/flair
   <li>https://github.com/flairNLP/flair/blob/master/resources/docs/TUTORIAL_6_CORPUS.md 
    
